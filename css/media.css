@@ -1,0 +1,95 @@
+@media screen and (max-width: 1200px) {
+	.link {
+    font-size: 10px;
+    width: 182px;
+	}
+	.lk__item {
+    width: 240px;
+	}
+	.contact__point {
+    margin-left: 20px;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	.lk__item_name {
+    margin-left: 10px;
+	}
+	.lk__item {
+    width: 180px;
+	}
+	.people__photo {
+    height: 150px;
+    width: 150px;
+	}
+	.people__download {
+    margin-left: 4px;
+	}
+	.parents, .nick, .telephone, .city {
+    font-size: 17px;
+	}
+	.contact__point {
+    margin-left: 35px;
+	}
+	.vk {
+    width: 20px;
+    margin-right: 3px;
+	}
+	.account {
+    font-size: 11px;
+	}
+	.link {
+    font-size: 8px;
+    width: 132px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.lk__item {
+    text-align: center;
+    width: 100%;
+	}
+	.people__type {
+    width: 180px;
+    margin: 0 auto;
+	}
+	.people__download {
+    width: 150px;
+    margin: 0 auto;
+    margin-top: 20px;
+	}
+	.contact__item {
+    text-align: center;
+	}
+	.notework {
+    text-align: left;
+	}
+	.vk {
+	width: 40px;
+	margin-right: 10px;
+	}
+	.account {
+    font-size: 15px;
+    color: #7e7e7e;
+	}
+	.link {
+	font-size: 12px;
+	margin: 5px 0 20px 20px;
+	padding: 7px 4px;
+	border: 1px solid #c1c1c1;
+	border-radius: 3px;
+	width: 202px;
+	}
+	.information {
+    margin-top: 20px;
+	}
+}	
+
+@media screen and (max-width: 340px) {
+	.telephone {
+    font-size: 16px;
+	}
+}	
+
+
+
